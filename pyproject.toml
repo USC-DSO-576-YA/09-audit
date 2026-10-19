@@ -1,0 +1,8 @@
+[project]
+name = "dso576-ya-09-audit"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas==2.2.3",
+    "ipykernel>=6,<8",
+]
