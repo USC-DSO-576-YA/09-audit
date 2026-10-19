@@ -13,6 +13,8 @@ Select the repository's `.venv` Python kernel.
 
 All example data is included.
 
+For extra quiz practice, tell Codex: **“Read tutor.md and give me one Module 9 practice question.”**
+
 ## Talk it through
 
 Open Codex in this folder and type `$talk-it-through` to clarify an idea or decision, one question at a time. The skill is included in `.agents/skills/talk-it-through/`.
