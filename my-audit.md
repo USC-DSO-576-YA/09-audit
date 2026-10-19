@@ -21,6 +21,8 @@ Complete this template in your own words and submit it on Brightspace. Do not pu
 - Number audited and its meaning:
 - Formula, units, population, and time window:
 - Relevant data assumptions:
+- Code checked: file path, function name, and relevant line numbers or a short code excerpt (at the version recorded above):
+- What this code computes, in my own words:
 - Small test case and expected result:
 - Actual result:
 - Independent calculation or check of a specific assumption/code line:
