@@ -35,3 +35,4 @@ Include the code or a link to the check when needed to reproduce your evidence. 
 
 - What I personally checked and concluded:
 - How AI helped, if used:
+- Related change-request IDs in the team's `change-requests.md`, if any:

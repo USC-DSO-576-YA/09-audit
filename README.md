@@ -11,6 +11,7 @@ Select the repository's `.venv` Python kernel.
 - `module09_in_class.ipynb` — class exercises; predict before running.
 - `module09_in_class_worked_examples.ipynb` — worked answers for review.
 - `my-audit.md` — individual audit template; submit your completed copy on Brightspace, not GitHub.
+- `change-requests.md` — shared homework template; copy it into your team's app repository to claim audit topics and record requested changes.
 
 All example data is included.
 
